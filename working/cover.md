@@ -52,3 +52,6 @@ Example 3: A character begins their turn taking heavy cover. They emerge and mov
 Example 4: A character begins in an area of medium cover (1), moves through heavy cover (2), and ends in medium cover (1). Their final value (1) is less than the value of the area moved through (2), so it is 2 for this round, but will be 1 starting next round.
 
 Example 5: A character begins in an area of heavy cover (2), moves through medium cover (1), and ends in heavy cover (2). Their final value (2) is more than the area moved through (1), so their cover this turn is 1, but next turn will be 2.
+
+Exposed
+When a character is in the open and has no way to take cover from ranged attacks, they are said to be Exposed. When exposed, all ranged attacks against the target are automatically upgraded once. Note that a character is generally only considered exposed in an area with no available cover, not simply any character who hasn't taken a maneuver to gain a cover bonus. So a character in the middle of an open field is exposed, while a character in a hallway or doorway may not be.
