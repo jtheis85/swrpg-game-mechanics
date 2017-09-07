@@ -1,36 +1,39 @@
-Alternative Notes
-- Willpower seems pretty lackluster
+-Vanilla willpower seems pretty lackluster
 
-Physical Characteristics
+## Physical Characteristics
 Brawn
-Athletics (Active)
-Resilience (Reactive)
+* Athletics (Active)
+* Resilience (Reactive)
+
 Agility
-Coordination (Active)
-Reflexes (Reactive)
-Perception (Active/Reactive)
-Stealth (Active/Reactive)
+* Coordination (Active)
+* Reflexes (Reactive)
+* Perception (Active/Reactive)
+* Stealth (Active/Reactive)
 
-Mental Characteristics
+## Mental Characteristics
 Intelligence
-Knowledge
-Problem Solving
-Willpower
-Focus (Active)
-Discipline (Reactive)
-Social Characteristics
-Cunning
-Negotiation
+* Knowledge
+* Problem Solving
 
-Deceive
 Willpower
-Coerce/Threaten/Intimidate (Active)
+* Focus (Active)
+* Discipline (Reactive)
+
+# Social Characteristics
+Cunning
+* Negotiation
+* Deceive
+
+Willpower
+* Coerce/Threaten/Intimidate (Active)
 
 Charm
-Flatter (Active)
+* Flatter (Active)
+
 Presence
-Influence/Sway (Active)
-Star Power/Charisma
+* Influence/Sway (Active)
+* Star Power/Charisma
 
 Leadership = influence + authority. You must both be able to get people to do what you want (by whatever means) and have the authority
 
