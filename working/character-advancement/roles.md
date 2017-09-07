@@ -1,6 +1,3 @@
-Classic careers incentivize over-specialization, both in characteristics and in overall role during gameplay (e.g. the "face"). Instead, players will build their own career that is designed to span all the gameplay pillars and encourage variety.
-
-
 Roles
 Combat Specialist
 - Commando
