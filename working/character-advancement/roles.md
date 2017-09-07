@@ -1,7 +1,5 @@
 Classic careers incentivize over-specialization, both in characteristics and in overall role during gameplay (e.g. the "face"). Instead, players will build their own career that is designed to span all the gameplay pillars and encourage variety.
 
-Idea: Have each role provide a bonus characteristic point to a minimum level (e.g. raise your score to 3 if it wasn't already). Perhaps limit this only to starting roles. This will incentivize players to choose a variety of roles rather than a narrow specialty.
-
 
 Roles
 Combat Specialist
