@@ -7,7 +7,6 @@ At first it may seem strange that a character focusing on Infantry Command could
 
 If the character calling upon an asset does have a related command skill, it may be appropriate for them to (temporarily) take command of the asset, provided they outrank the current commander. For example, a character with starfighter command could call upon an aerospace asset in the form of allied starfighters. In addition to friendly NPC starfighters assisting in combat, the character could issue those commands and orders, such as target priorities.
 
-
 ## Combat Assets
 
 ### Types
