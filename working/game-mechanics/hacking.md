@@ -7,11 +7,11 @@ Devices
 
 # Approaches
 
-.           Speed	Depth	Detection	Breadth
-Swift	    Fast	Shallow	Risky	    Narrow
-Aggressive	Slow	Deep	Risky	    Narrow
-Evasive	    Slow	Shallow	Safe	    Narrow
-Thorough	Slow	Shallow	Risky	    Broad
+               Speed Depth	 Detection Breadth
+    Swift      Fast  Shallow Risky     Narrow
+    Aggressive Slow  Deep	 Risky	   Narrow
+    Evasive	   Slow  Shallow Safe	   Narrow
+    Thorough   Slow  Shallow Risky	   Broad
 
 
 System Characteristics
