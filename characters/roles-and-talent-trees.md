@@ -10,6 +10,9 @@ A character might find that they are granted the same talent tree for free from 
 
 Personal Combat
 * Cover
+* Maneuver
+* Armor
+* Concealment
 * Skirmishing
 * Assault
 * Triage
