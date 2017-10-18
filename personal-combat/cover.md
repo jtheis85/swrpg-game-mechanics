@@ -26,6 +26,9 @@ _Reminder: When downgrading attacks, first turn Proficiency dice into Ability di
 
 _Design Note: It is important to note that in addition to reducing enemy damage output and chance to hit, cover downgrades also substantially reduce the frequency of enemies scoring a (devastating) triumph._
 
+p.219, Table 6-2
+Spending 3 advantages does not negate ALL of an enemy's cover benefit. It merely drops it by one level.
+
 ## Exposed
 When a character is in the open and has no way to take cover from ranged attacks, they are said to be Exposed. When exposed, all ranged attacks against the target are automatically upgraded once. Note that a character is generally only considered exposed in an area with no available cover, not simply any character who hasn't taken a maneuver to gain a cover bonus. So a character in the middle of an open field is exposed, while a character in a hallway or doorway may not be.
 
