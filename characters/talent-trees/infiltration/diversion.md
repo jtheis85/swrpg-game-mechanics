@@ -2,5 +2,3 @@
 
 Category - Personnel
 
-Theme - Distracting/diverting guards
-

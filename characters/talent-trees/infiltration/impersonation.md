@@ -2,5 +2,3 @@
 
 Category - Personnel
 
-Theme - Disguise, deceiving guards/administrative personnel
-
