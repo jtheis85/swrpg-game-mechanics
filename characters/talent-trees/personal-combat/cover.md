@@ -1,4 +1,6 @@
-# Cover Talent Tree
+# Cover - Personal Combat Talent Tree
+
+Category - Protection
 
 Toughened (x2)
 Grit

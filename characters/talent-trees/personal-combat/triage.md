@@ -1,4 +1,6 @@
-# Triage Talent Tree
+# Triage - Personal Combat Talent Tree
+
+Category - Support
 
 Toughened
 Grit (x2)

@@ -1,4 +1,7 @@
-* Maneuver Talent Tree
+# Maneuver - Personal Combat Talent Tree
+// AKA Assault?
+
+Category - Offense
 
 Toughened
 Grit (x2)
@@ -13,7 +16,7 @@ Dedication
 * **Free** - Spend 1 strain to add 1 setback die to any ranged or melee attack targeting you as an incidental. You may not spend more strain than your ranks in coordination. All characters automatically have the Dodge talent for free.
 * **Improved** - Spend up to 2 strain to add that number of setback dice. You still may not spend more strain than your ranks in coordination.
 * **Supreme** - Spend up to 3 strain to add that number of setback dice. You still may not spend more strain than your ranks in coordination.
-
+// While not in cover? Must have moved in their past turn?
 
 
 

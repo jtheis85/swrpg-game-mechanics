@@ -1,4 +1,6 @@
-* Concealment Talent Tree
+# Concealment - Personal Combat Talent Tree
+
+Category - Protection
 
 Toughened
 Grit (x2)
